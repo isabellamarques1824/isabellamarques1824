@@ -33,7 +33,7 @@
     </a>
   </div>
   <div class="snake">
-    
+    ![Snake animation](https://raw.githubusercontent.com/isabellamarques1824/isabellamarques1824/main/dist/snake.gif)
   </div>
 </body>
 </html>
