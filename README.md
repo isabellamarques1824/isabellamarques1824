@@ -3,7 +3,6 @@
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8">
-  <title>README Visual</title>
 </head>
 <body>
   <h1>Olá 👋, eu sou Isabella</h1>
