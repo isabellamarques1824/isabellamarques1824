@@ -7,8 +7,7 @@ z<html lang="pt-br">
    <title>README Visual</title>
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
-
-  body {
+     body {
       background-color: #0d0d0d;
       font-family: 'Press Start 2P', cursive;
       color: #b084f7;
