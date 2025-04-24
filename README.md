@@ -33,7 +33,7 @@
     </a>
   </div>
   <div class="snake">
-    ![snake gif](https://raw.githubusercontent.com/isabellamarques1824/isabellamarques1824/output/github-contribution-grid-snake-dark.svg)
+    
   </div>
 </body>
 </html>
