@@ -5,75 +5,9 @@ z<html lang="pt-br">
   <meta charset="UTF-8">
   <title>README Visual</title>
    <title>README Visual</title>
-  <style>
-    @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
-     body {
-      background-color: #0d0d0d;
-      font-family: 'Press Start 2P', cursive;
-      color: #b084f7;
-      text-align: center;
-      padding: 2rem;
-    }
-    .typewriter {
-      display: inline-block;
-      border-right: 3px solid #b084f7;
-      white-space: nowrap;
-      overflow: hidden;
-      animation: typing 4s steps(30, end), blink 0.7s step-end infinite;
-      font-size: 1.6rem;
-      margin-bottom: 2.5rem;
-    }
-    @keyframes typing {
-      from { width: 0 }
-      to { width: 20ch }
-    }
-    @keyframes blink {
-      from, to { border-color: transparent }
-      50% { border-color: #b084f7; }
-    }
-    h1 {
-      color: #9b59b6;
-      font-size: 1.8rem;
-      margin-bottom: 1rem;
-    }
-    p {
-      font-size: 0.9rem;
-      color: #d3bfff;
-      margin-bottom: 2rem;
-    }
-    .gif {
-      margin: 1rem;
-    }
-    .badge {
-      display: inline-block;
-      margin: 0.5rem;
-    }
-    .section {
-      background-color: #1a1a1a;
-      border: 2px solid #9b59b6;
-      border-radius: 15px;
-      padding: 1.5rem;
-      margin: 1rem auto;
-      width: 90%;
-      max-width: 700px;
-      box-shadow: 0 0 15px rgba(155, 89, 182, 0.4);
-    }
-    li {
-      font-size: 0.75rem;
-      color: #d3bfff;
-      text-align: left;
-      margin: 0.3rem auto;
-      width: fit-content;
-    }
-    .snake {
-      margin-top: 1rem;
-    }
-  </style>
 </head>
 <body>
-  <div class="typewriter">Olá 👋, eu sou Isabella</div>
-
-  
+  <h1>Olá 👋, eu sou Isabella</h1>
    <div class="section">
     <h2>✨Estatísticas✨</h2>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight" alt="Top Langs" />
