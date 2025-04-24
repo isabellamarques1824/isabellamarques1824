@@ -32,9 +32,6 @@
       <img src="https://img.shields.io/badge/-isabellamarques4852@gmail.com-9b59b6?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge" />
     </a>
   </div>
-  <div class="snake">
-    ![Snake animation](https://raw.githubusercontent.com/isabellamarques1824/isabellamarques1824/main/dist/snake.gif)
-  </div>
 </body>
 </html>
 
