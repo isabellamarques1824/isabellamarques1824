@@ -33,7 +33,7 @@
     </a>
   </div>
   <div class="snake">
-    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation" />
+    ![snake gif](https://raw.githubusercontent.com/SEUUSUARIO/SEUUSUARIO/output/github-contribution-grid-snake-dark.svg)
   </div>
 </body>
 </html>
