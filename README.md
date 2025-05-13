@@ -9,6 +9,7 @@
    <div class="section">
     <h2>✨Estatísticas✨</h2>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellamarques1824&layout=compact&theme=tokyonight" alt="Top Langs" />
+    <img src="https://pin.it/7rXdF6UGU" alt= "imagem">
   </div>
 
   <div class="section">
