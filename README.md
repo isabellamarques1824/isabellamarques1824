@@ -23,7 +23,7 @@
 
   <div class="section">
     <h2>Ferramentas e linguagens 💻✨</h2>
-    <img class="badge" src="https://skillicons.dev/icons?i=html,css,js,nodejs,python" alt="tech stack" />
+    <img class="badge" src="https://skillicons.dev/icons?i=html,css,js,python,c,arduino" alt="tech stack" />
   </div>
 
   <div class="section">
