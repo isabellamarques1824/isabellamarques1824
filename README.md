@@ -13,11 +13,13 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellamarques1824&layout=compact&theme=tokyonight&hide_border=true" 
     alt="Top Langs"
     style="display:inline-block; margin-right:20px;"
+    width="45%"
   />
   &nbsp;&nbsp;&nbsp;
   <img 
     src="https://github-readme-stats.vercel.app/api?username=isabellamarques1824&show_icons=true&theme=tokyonight&hide_border=true" 
     alt="Estatísticas do GitHub"
+    width="45%"
   />
 </div>
 
