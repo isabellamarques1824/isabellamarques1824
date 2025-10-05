@@ -6,24 +6,35 @@
 </head>
 <body>
   <h1>Olá 👋, eu sou Isabella</h1>
-   <div class="section">
-    <h2>✨Estatísticas✨</h2>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellamarques1824&layout=compact&theme=tokyonight" alt="Top Langs" /
-  </div>
+  
+<div class="section">
+  <h2>✨Estatísticas✨</h2>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellamarques1824&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="Top Langs"
+    style="display:inline-block; margin-right:20px;"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=isabellamarques1824&show_icons=true&theme=tokyonight&hide_border=true" 
+    alt="Estatísticas do GitHub"
+    width="39%"
+  />
+</div>
 
   <div class="section">
     <h2>✨Sobre mim✨</h2>
-    <ul>
-      <li>Estudante de Engenharia de Software na FIAP</li>
-      <li>Caminhando para ser uma desenvolvedora Full Stack</li>
-      <li>Gosto de tecnologia e criar projetos próprios.</li>
-      <li>Sempre buscando aprender e aplicar novos conhecimentos</li>
-    </ul>
+        <ul>
+          <li>Sou estudante de <b>Engenharia de Software</b> na <b>FIAP</b>.</li>
+          <li>Quero seguir carreira como <b>Desenvolvedora de Sistemas</b>, <b>Back-end</b> ou <b>Full Stack</b>.</li>
+          <li>Tenho interesse em <b>programação de baixo nível</b>, porque gosto muito de <b>tecnologia</b>.</li>
+          <li>Gosto de criar meus próprios projetos e estou sempre me dedicando a aprender mais e explorar novas tecnologias.</li>
+        </ul>
   </div>
 
   <div class="section">
     <h2>Ferramentas e linguagens 💻✨</h2>
-    <img class="badge" src="https://skillicons.dev/icons?i=html,css,js,python,c,arduino" alt="tech stack" />
+    <img class="badge" src="https://skillicons.dev/icons?i=python,c,react,html,css,js" alt="tech stack" />
   </div>
 
   <div class="section">
