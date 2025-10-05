@@ -13,7 +13,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellamarques1824&layout=compact&theme=tokyonight&hide_border=true" 
     alt="Top Langs"
     style="display:inline-block; margin-right:20px;"
-    width="45%"
+    width="39%"
   />
   &nbsp;&nbsp;&nbsp;
   <img 
