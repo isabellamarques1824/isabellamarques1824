@@ -18,7 +18,6 @@
   <img 
     src="https://github-readme-stats.vercel.app/api?username=isabellamarques1824&show_icons=true&theme=tokyonight&hide_border=true" 
     alt="Estatísticas do GitHub"
-    width="39%"
   />
 </div>
 
