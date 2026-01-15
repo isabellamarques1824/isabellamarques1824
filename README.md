@@ -9,10 +9,9 @@
   
 ## ✨ Estatísticas ✨
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabellamarques1824&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabellamarques1824&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isabellamarques1824&show_icons=true&theme=tokyonight&hide_border=true)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isabellamarques1824&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
   <div class="section">
     <h2>✨Sobre mim✨</h2>
