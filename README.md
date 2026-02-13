@@ -16,6 +16,6 @@ Sou estudante de Engenharia de Software na FIAP. <br><br>Apaixonada por computa√
 
 
 ## üåê Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/isabellamarques1824) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/isabella-jardim-marques-23b629356) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@nekodev1824) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:isabellamarques4852@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/isabellamarques1824) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/isabella-jardim-marques-23b629356) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@nekodev1824) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:isabellamarques4852@gmail.com) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
