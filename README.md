@@ -2,6 +2,10 @@
 Sou estudante de Engenharia de Software na FIAP. <br><br>Apaixonada por computação desde os fundamentos.<br>Atualmente estou me aprofundando na programação, <br> criando meus próprios projetos para evoluir como desenvolvedora.
 <br><br>Aprendendo um pouco todos os dias.<br>
 
+
+<img src="https://skillicons.dev/icons?i=c,python,ts,react,nodejs,git,linux,bash" />
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=isabellamarques1824&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=isabellamarques1824&theme=midnight-purple&hide_border=true)<br/>
