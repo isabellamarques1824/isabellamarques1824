@@ -1,21 +1,157 @@
-# Oii! Eu sou Isabella 👋
-Sou estudante de Engenharia de Software na FIAP. <br><br>Apaixonada por computação desde os fundamentos.<br>Atualmente estou me aprofundando na programação, <br> criando meus próprios projetos para evoluir como desenvolvedora.
-<br><br>Aprendendo um pouco todos os dias.<br>
+<div align="center">
 
+# Hi, I'm Isabella!!
 
-<img src="https://skillicons.dev/icons?i=c,python,ts,react,nodejs,git,linux,bash" />
+**`Software Engineering Student`** · **`C Programming`** · **`Systems Programming`**
 
+<br/>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=isabellamarques1824&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=isabellamarques1824&theme=midnight-purple&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=isabellamarques1824&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+I’m a Software Engineering student interested in systems programming and low-level development.<br/>
+I’m deepening my knowledge in C through pointers, memory management, `malloc/free`,<br/>
+and core systems concepts. I have frontend experience, but I’m currently following a backend-focused <br/> 
+path with Python and Java, while keeping cybersecurity as a future area of interest.<br/>
+I also explore game development for fun, especially because I enjoy creative and technical projects.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<br/>
 
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=godot-engine&logoColor=c9d1d9" width="60"/><br/>
+<strong>Game Dev</strong><br/>
+<sub>Hobby Projects</sub>
+</td>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/isabellamarques1824) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/isabella-jardim-marques-23b629356) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@nekodev1824) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:isabellamarques4852@gmail.com) 
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=c&logoColor=c9d1d9" width="60"/><br/>
+<strong>C Programming</strong><br/>
+<sub>Core Language</sub>
+</td>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=linux&logoColor=c9d1d9" width="60"/><br/>
+<strong>Low-Level</strong><br/>
+<sub>Memory · Binaries · Systems</sub>
+</td>
+
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=react&logoColor=c9d1d9" width="60"/><br/>
+<strong>Full Stack</strong><br/>
+<sub>Backend Focus · APIs</sub>
+</td>
+
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=serverfault&logoColor=c9d1d9" width="60"/><br/>
+<strong>Systems</strong><br/>
+<sub>OS Concepts · Architecture</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+## Skills
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<strong>Languages</strong><br/><br/>
+<img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=c9d1d9&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=c9d1d9&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=c9d1d9&labelColor=0d1117" />
+<br/><br/>
+<sub>C · Python · Java</sub>
+</td>
+
+<td align="center" width="33%">
+<strong>Low-Level Programming</strong><br/><br/>
+<img src="https://img.shields.io/badge/Pointers-0d1117?style=for-the-badge&logo=c&logoColor=c9d1d9&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Stack_&_Heap-0d1117?style=for-the-badge&logo=buffer&logoColor=c9d1d9&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/malloc_/_free-0d1117?style=for-the-badge&logo=c&logoColor=c9d1d9&labelColor=0d1117" />
+<br/><br/>
+<sub>Pointers · Stack & Heap · Dynamic Memory · Compilation</sub>
+</td>
+
+<td align="center" width="33%">
+<strong>Frontend</strong><br/><br/>
+<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=c9d1d9&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=c9d1d9&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=c9d1d9&labelColor=0d1117" />
+<br/><br/>
+<sub>React · Tailwind CSS · TypeScript</sub>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="33%">
+<strong>Backend Foundations</strong><br/><br/>
+<img src="https://img.shields.io/badge/REST_APIs-0d1117?style=for-the-badge&logo=fastapi&logoColor=c9d1d9&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/JSON-0d1117?style=for-the-badge&logo=json&logoColor=c9d1d9&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=c9d1d9&labelColor=0d1117" />
+<br/><br/>
+<sub>REST APIs · JSON · SQL · CRUD · Authentication · Validation</sub>
+</td>
+
+<td align="center" width="33%">
+<strong>Game Development</strong><br/><br/>
+<img src="https://img.shields.io/badge/2D_Games-0d1117?style=for-the-badge&logo=godot-engine&logoColor=c9d1d9&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Game_Logic-0d1117?style=for-the-badge&logo=c&logoColor=c9d1d9&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Pixel_Art-0d1117?style=for-the-badge&logo=aseprite&logoColor=c9d1d9&labelColor=0d1117" />
+<br/><br/>
+<sub>Just for fun · 2D Games · Game Logic · Pixel Art</sub>
+</td>
+
+<td align="center" width="33%">
+<strong>Tools</strong><br/><br/>
+<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=c9d1d9&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=c9d1d9&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=c9d1d9&labelColor=0d1117" />
+<br/><br/>
+<sub>Git · GitHub · VS Code</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=isabellamarques1824&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=c9d1d9&icon_color=8b949e" alt="GitHub Stats"/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellamarques1824&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=c9d1d9" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=isabellamarques1824&theme=github-dark-blue&hide_border=true&background=0D1117&ring=C9D1D9&fire=8B949E&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=isabellamarques1824&bg_color=0d1117&color=c9d1d9&line=8b949e&point=ffffff&area=true&area_color=30363d&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution Activity"/>
+
+<br/><br/>
+<br/>
+
+<div align="center">
+
+<a href="mailto:isabellamarques4852@gmail.com">
+<img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=c9d1d9&labelColor=0d1117" />
+</a>
+
+<a href="https://www.youtube.com/@nyxvoid1824">
+<img src="https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=c9d1d9&labelColor=0d1117" />
+</a>
+
+</div>
+
+<br/>
+<img src="https://komarev.com/ghpvc/?username=isabellamarques1824&color=8b949e&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+</div>
