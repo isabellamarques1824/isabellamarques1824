@@ -145,9 +145,6 @@ I also explore game development for fun, especially because I enjoy creative and
 <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=c9d1d9&labelColor=0d1117" />
 </a>
 
-<a href="https://www.youtube.com/@nyxvoid1824">
-<img src="https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=c9d1d9&labelColor=0d1117" />
-</a>
 
 </div>
 
