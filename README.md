@@ -192,16 +192,17 @@ I also have experience with software engineering projects involving REST APIs, S
 <!-- GENERAL STATS -->
 <img
   width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=isabellamarques1824&show_icons=true&include_all_commits=true&hide_border=false&border_radius=4.5&bg_color=0d1117&border_color=2c3237&title_color=c8cdd1&text_color=b3bac0&icon_color=a7b0b7"
+  src="./profile/stats.svg"
   alt="Isabella's GitHub statistics"
 />
 
 <!-- MOST USED LANGUAGES -->
 <img
   width="49%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellamarques1824&layout=compact&langs_count=8&hide_border=false&border_radius=4.5&bg_color=0d1117&border_color=2c3237&title_color=c8cdd1&text_color=b3bac0"
+  src="./profile/top-langs.svg"
   alt="Isabella's most used languages"
 />
+
 
 <br/><br/>
 
