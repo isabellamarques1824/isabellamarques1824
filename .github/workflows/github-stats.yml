@@ -20,17 +20,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: >-
-            username=${{ github.repository_owner }}
-            &show_icons=true
-            &include_all_commits=true
-            &hide_border=false
-            &border_radius=4.5
-            &bg_color=0D1117
-            &border_color=2B3137
-            &title_color=C3C8CC
-            &text_color=AEB5BA
-            &icon_color=9BA7AE
+          options: '{"username":"isabellamarques1824","show_icons":true,"include_all_commits":true,"hide_border":false,"border_radius":4.5,"bg_color":"0D1117","border_color":"2C3237","title_color":"C8CDD1","text_color":"B3BAC0","icon_color":"A7B0B7"}'
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -38,16 +28,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: >-
-            username=${{ github.repository_owner }}
-            &layout=compact
-            &langs_count=8
-            &hide_border=false
-            &border_radius=4.5
-            &bg_color=0D1117
-            &border_color=2B3137
-            &title_color=C3C8CC
-            &text_color=AEB5BA
+          options: '{"username":"isabellamarques1824","layout":"compact","langs_count":8,"hide_border":false,"border_radius":4.5,"bg_color":"0D1117","border_color":"2C3237","title_color":"C8CDD1","text_color":"B3BAC0"}'
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
