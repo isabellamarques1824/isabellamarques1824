@@ -189,20 +189,21 @@ I also have experience with software engineering projects involving REST APIs, S
 
 <div align="center">
 
-<!-- GENERAL STATS -->
+<div align="center">
+
 <img
   width="49%"
-  src="./profile/stats.svg"
+  src="./profile/stats.svg?v=3"
   alt="Isabella's GitHub statistics"
 />
 
-<!-- MOST USED LANGUAGES -->
 <img
   width="49%"
-  src="./profile/top-langs.svg"
+  src="./profile/top-langs.svg?v=3"
   alt="Isabella's most used languages"
 />
 
+</div>
 
 <br/><br/>
 
