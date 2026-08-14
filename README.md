@@ -260,4 +260,3 @@ I’m currently developing **Nyx-16**, a virtual 16-bit computer built from the 
 <img src="https://komarev.com/ghpvc/?username=isabellamarques1824&color=8b949e&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
-```
