@@ -2,14 +2,17 @@
 
 # Hi, I'm Isabella!!
 
-**`Software Engineering Student`** · **`Systems Programming`** · **`AI Research Engineering Learner`**
+**`Software Engineering Student`** · **`Java & Python Development`** · **`Systems & Low-Level`**
 
 <br/>
 
-I’m a Software Engineering student focused on C, systems programming, and low-level development.
-I’m currently strengthening my foundations in pointers, memory management, data structures, Linux, and core computer systems concepts while working toward Nyx-16, a virtual 16-bit computer built from the ground up.
-My long-term goal is to move into AI Research Engineering, combining Python, machine learning, scientific computing, and the reproduction of research papers.
-I also have experience with software engineering projects involving REST APIs, SQL, React, TypeScript, and backend development.
+I’m a Software Engineering student focused on building strong foundations in software development, backend engineering, and computer science.
+
+My main focus is **Java and Python**, while strengthening concepts such as object-oriented programming, data structures, algorithms, complexity analysis, software design, REST APIs, relational databases, debugging, and maintainable code.
+
+I also study **C, systems programming, Linux, memory management, and computer architecture**. Working closer to the machine helps me understand how software behaves beyond high-level abstractions, improving the way I reason about memory, state, performance, debugging, and software design.
+
+I’m currently developing **Nyx-16**, a virtual 16-bit computer built from the ground up in C, while continuing to build software engineering projects and strengthen the fundamentals required to design, implement, debug, and maintain reliable software.
 
 <br/>
 
@@ -18,61 +21,61 @@ I also have experience with software engineering projects involving REST APIs, S
 
 <td align="center" valign="middle" width="20%" height="190">
 <img 
-  src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=c&logoColor=c9d1d9" 
-  width="60"
-/>
-<br/><br/>
-<strong>C Programming</strong>
-<br/>
-<sub>Pointers · Memory · Data Structures</sub>
-</td>
-
-
-<td align="center" valign="middle" width="20%" height="190">
-<img 
-  src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=linux&logoColor=c9d1d9" 
-  width="60"
-/>
-<br/><br/>
-<strong>Systems Programming</strong>
-<br/>
-<sub>Linux · Processes · Syscalls</sub>
-</td>
-
-
-<td align="center" valign="middle" width="20%" height="190">
-<img 
-  src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=qemu&logoColor=c9d1d9" 
-  width="60"
-/>
-<br/><br/>
-<strong>Computer Systems</strong>
-<br/>
-<sub>CPU · Assembly · Virtual Machines</sub>
-</td>
-
-
-<td align="center" valign="middle" width="20%" height="190">
-<img 
-  src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=pytorch&logoColor=c9d1d9" 
-  width="60"
-/>
-<br/><br/>
-<strong>AI Research</strong>
-<br/>
-<sub>ML · PyTorch · Paper Reproduction</sub>
-</td>
-
-
-<td align="center" valign="middle" width="20%" height="190">
-<img 
-  src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=fastapi&logoColor=c9d1d9" 
+  src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=github&logoColor=c9d1d9" 
   width="60"
 />
 <br/><br/>
 <strong>Software Engineering</strong>
 <br/>
-<sub>APIs · SQL · React · TypeScript</sub>
+<sub>Design · Quality · Maintainability</sub>
+</td>
+
+
+<td align="center" valign="middle" width="20%" height="190">
+<img 
+  src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=openjdk&logoColor=c9d1d9" 
+  width="60"
+/>
+<br/><br/>
+<strong>Java Development</strong>
+<br/>
+<sub>OOP · Backend · Modular Design</sub>
+</td>
+
+
+<td align="center" valign="middle" width="20%" height="190">
+<img 
+  src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=python&logoColor=c9d1d9" 
+  width="60"
+/>
+<br/><br/>
+<strong>Python Development</strong>
+<br/>
+<sub>Software · APIs · Problem Solving</sub>
+</td>
+
+
+<td align="center" valign="middle" width="20%" height="190">
+<img 
+  src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=leetcode&logoColor=c9d1d9" 
+  width="60"
+/>
+<br/><br/>
+<strong>CS Fundamentals</strong>
+<br/>
+<sub>Algorithms · Data Structures · Complexity</sub>
+</td>
+
+
+<td align="center" valign="middle" width="20%" height="190">
+<img 
+  src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=c&logoColor=c9d1d9" 
+  width="60"
+/>
+<br/><br/>
+<strong>Systems & Low-Level</strong>
+<br/>
+<sub>C · Memory · Linux · Architecture</sub>
 </td>
 
 </tr>
@@ -92,41 +95,46 @@ I also have experience with software engineering projects involving REST APIs, S
 <td align="center" width="33%">
 <strong>Languages</strong><br/><br/>
 
-<img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=c9d1d9&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=c9d1d9&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=c9d1d9&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=c9d1d9&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=c9d1d9&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=c9d1d9&labelColor=0d1117" />
 
 <br/><br/>
 
-<sub>C · Python · Java</sub>
-</td>
-
-
-<td align="center" width="33%">
-<strong>Systems & Low-Level</strong><br/><br/>
-
-<img src="https://img.shields.io/badge/Pointers-0d1117?style=for-the-badge&logo=c&logoColor=c9d1d9&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Memory_Management-0d1117?style=for-the-badge&logo=c&logoColor=c9d1d9&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Data_Structures-0d1117?style=for-the-badge&logo=c&logoColor=c9d1d9&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Assembly-0d1117?style=for-the-badge&logo=assemblyscript&logoColor=c9d1d9&labelColor=0d1117" />
-
-<br/><br/>
-
-<sub>Pointers · Stack & Heap · Dynamic Memory · Data Structures · Assembly · Systems Programming</sub>
+<sub>Java · Python · C · SQL · TypeScript</sub>
 </td>
 
 
 <td align="center" width="33%">
 <strong>Software Engineering</strong><br/><br/>
 
-<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=c9d1d9&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=c9d1d9&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/REST_APIs-0d1117?style=for-the-badge&logo=fastapi&logoColor=c9d1d9&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=c9d1d9&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/OOP-0d1117?style=for-the-badge&logo=openjdk&logoColor=c9d1d9&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Data_Structures-0d1117?style=for-the-badge&logo=codecademy&logoColor=c9d1d9&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Algorithms-0d1117?style=for-the-badge&logo=leetcode&logoColor=c9d1d9&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Debugging-0d1117?style=for-the-badge&logo=gnu&logoColor=c9d1d9&labelColor=0d1117" />
 
 <br/><br/>
 
-<sub>React · TypeScript · Tailwind CSS · REST APIs · JSON · SQL · CRUD</sub>
+<sub>OOP · Data Structures · Algorithms · Complexity Analysis · Modular Design · Debugging</sub>
+</td>
+
+<td align="center" width="33%">
+<strong>Backend Engineering</strong><br/><br/>
+
+<img src="https://img.shields.io/badge/API_Design-0d1117?style=for-the-badge&logo=fastapi&logoColor=c9d1d9&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=c9d1d9&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Data_Modeling-0d1117?style=for-the-badge&logo=postgresql&logoColor=c9d1d9&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Testing-0d1117?style=for-the-badge&logo=pytest&logoColor=c9d1d9&labelColor=0d1117" />
+
+<br/><br/>
+
+<sub>API Design · Relational Data Modeling · SQL · Transactions · Validation · Error Handling · Testing</sub>
+</td>
+```
+
+
+<sub>REST APIs · HTTP · JSON · CRUD · SQL · Relational Databases · Data Modeling</sub>
 </td>
 
 </tr>
@@ -135,31 +143,30 @@ I also have experience with software engineering projects involving REST APIs, S
 <tr>
 
 <td align="center" width="33%">
-<strong>Computer Architecture</strong><br/><br/>
+<strong>Computer Science</strong><br/><br/>
 
-<img src="https://img.shields.io/badge/CPU_Architecture-0d1117?style=for-the-badge&logo=intel&logoColor=c9d1d9&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Instruction_Set-0d1117?style=for-the-badge&logo=c&logoColor=c9d1d9&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Assembler-0d1117?style=for-the-badge&logo=gnu&logoColor=c9d1d9&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Virtual_Machine-0d1117?style=for-the-badge&logo=qemu&logoColor=c9d1d9&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Algorithms-0d1117?style=for-the-badge&logo=leetcode&logoColor=c9d1d9&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Complexity-0d1117?style=for-the-badge&logo=codeforces&logoColor=c9d1d9&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Operating_Systems-0d1117?style=for-the-badge&logo=linux&logoColor=c9d1d9&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Architecture-0d1117?style=for-the-badge&logo=intel&logoColor=c9d1d9&labelColor=0d1117" />
 
 <br/><br/>
 
-<sub>Fetch–Decode–Execute · Registers · RAM · Stack · Machine Code · Syscalls · Minimal OS</sub>
+<sub>Algorithms · Data Structures · Time & Space Complexity · Operating Systems · Computer Architecture</sub>
 </td>
 
 
 <td align="center" width="33%">
-<strong>AI Research Engineering</strong><br/>
-<sub>Currently Learning</sub><br/><br/>
+<strong>Systems & Low-Level</strong><br/><br/>
 
-<img src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=c9d1d9&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=c9d1d9&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Machine_Learning-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=c9d1d9&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=c9d1d9&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=c9d1d9&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Memory_Management-0d1117?style=for-the-badge&logo=c&logoColor=c9d1d9&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=c9d1d9&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/GDB-0d1117?style=for-the-badge&logo=gnu&logoColor=c9d1d9&labelColor=0d1117" />
 
 <br/><br/>
 
-<sub>Machine Learning · Linear Algebra · Probability & Statistics · Scientific Computing · Paper Reproduction</sub>
+<sub>Pointers · Stack & Heap · Dynamic Memory · Linux · Computer Architecture · Systems Programming</sub>
 </td>
 
 
@@ -249,10 +256,11 @@ I also have experience with software engineering projects involving REST APIs, S
 <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=c9d1d9&labelColor=0d1117" />
 </a>
 
-
 </div>
 
 <br/>
+
 <img src="https://komarev.com/ghpvc/?username=isabellamarques1824&color=8b949e&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
+```
