@@ -131,10 +131,7 @@ I’m currently developing **Nyx-16**, a virtual 16-bit computer built from the 
 
 <sub>API Design · Relational Data Modeling · SQL · Transactions · Validation · Error Handling · Testing</sub>
 </td>
-```
 
-
-<sub>REST APIs · HTTP · JSON · CRUD · SQL · Relational Databases · Data Modeling</sub>
 </td>
 
 </tr>
